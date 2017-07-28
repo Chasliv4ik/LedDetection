@@ -162,7 +162,6 @@
     <Compile Include="Assets\Vuforia\Editor\Scripts\ComponentFactoryStarter\ComponentFactoryStarter.cs" />
     <Compile Include="Assets\Vuforia\Editor\Scripts\ExtensionImport.cs" />
     <Compile Include="Assets\Vuforia\Editor\Scripts\PostProcessBuildPlayer.cs" />
-    <Compile Include="Assets\Vuforia\Editor\Scripts\Unzipper\SharpZipLibUnzipper.cs" />
     <Compile Include="Assets\Vuforia\Editor\Scripts\VuforiaConfigurationEditor.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -175,6 +174,9 @@
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\LedDetection\authoringinfo.xml" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Plugins\iOS\Vuforia.UnityExtensions.iOS.XML" />
+    <None Include="Assets\Region_Capture\ReadMe.txt" />
+    <None Include="Assets\Region_Capture\Samples\ReadMe_Samples.txt" />
+    <None Include="Assets\Region_Capture\Shaders\Set_Matrix_To_Material.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\LedDetection.xml" />
     <None Include="Assets\StreamingAssets\haarcascade_frontalface_alt.xml" />
     <None Include="Assets\StreamingAssets\lbpcascade_frontalface.xml" />
