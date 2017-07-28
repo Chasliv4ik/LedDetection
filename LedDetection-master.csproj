@@ -96,6 +96,12 @@
     <Compile Include="Assets\DOTween\Examples\Basics.cs" />
     <Compile Include="Assets\DOTween\Examples\Sequences.cs" />
     <Compile Include="Assets\DOTweenTest.cs" />
+    <Compile Include="Assets\Region_Capture\Samples\GetTexture.cs" />
+    <Compile Include="Assets\Region_Capture\Scripts\DisableSystemUI.cs" />
+    <Compile Include="Assets\Region_Capture\Scripts\RC_Extension.cs" />
+    <Compile Include="Assets\Region_Capture\Scripts\RC_Tools.cs" />
+    <Compile Include="Assets\Region_Capture\Scripts\Region_Capture.cs" />
+    <Compile Include="Assets\Region_Capture\Scripts\RenderTextureCamera.cs" />
     <Compile Include="Assets\Scripts\CameraFocusController.cs" />
     <Compile Include="Assets\Scripts\LedColorDetect.cs" />
     <Compile Include="Assets\Scripts\TargetScreenCoords.cs" />
@@ -146,6 +152,9 @@
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\LedDetection\authoringinfo.xml" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Plugins\iOS\Vuforia.UnityExtensions.iOS.XML" />
+    <None Include="Assets\Region_Capture\ReadMe.txt" />
+    <None Include="Assets\Region_Capture\Samples\ReadMe_Samples.txt" />
+    <None Include="Assets\Region_Capture\Shaders\Set_Matrix_To_Material.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\LedDetection.xml" />
     <None Include="Assets\StreamingAssets\haarcascade_frontalface_alt.xml" />
     <None Include="Assets\StreamingAssets\lbpcascade_frontalface.xml" />
